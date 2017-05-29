@@ -1,0 +1,149 @@
+{
+  "nren": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ID Router",
+        "country": "Indonesia",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57812499999999,
+          -6.926426847059551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MY Router",
+        "country": "Malaysia",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71142578125,
+          3.162455530237848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AU Router",
+        "country": "Australia",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.017578125,
+          -27.566721430409707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KR Router",
+        "country": "Korea",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97998046875001,
+          37.54893261064111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LK Router",
+        "country": "Sri Lanka",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.694580078125,
+          7.591217970942776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JP Router",
+        "country": "Japan",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7625732421875,
+          35.68407153314097
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IN Router",
+        "country": "India",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5302734375,
+          22.105998799750566
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UK Router",
+        "country": "England",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15380859375,
+          51.52241608253253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Router",
+        "country": "LA, United States",
+        "hostname/ip": "127.0.0.1",
+        "link": "10M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          241.754150390625,
+          34.05265942137599
+        ]
+      }
+    }
+  ]
+}
