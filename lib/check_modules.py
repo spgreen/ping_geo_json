@@ -2,8 +2,12 @@ import subprocess
 import re
 
 def check_ping2(hostname_or_ip="127.0.0.1", ping_count="4", warn_percent_loss=0):
-    statistics = {"status": "DOWN", "loss": "N/A", "minimum": "N/A", "maximum": "N/A", "average": "N/A" }
-    stats = ["minimum", "maximum", "average"]
+    statistics = {"status": "DOWN", 
+                  "loss": "N/A", 
+                  "minimum": "N/A", 
+                  "average": "N/A", 
+                  "maximum": "N/A",
+                  "jitter": "N/A"}
 
     ping_count = str(ping_count)
     
@@ -23,7 +27,7 @@ def check_ping2(hostname_or_ip="127.0.0.1", ping_count="4", warn_percent_loss=0)
             statistics["status"] = "OK"
 
         rtt_match = re.search(r'(\d+.\d+)/(\d+.\d+)/(\d+.\d+)/(\d+.\d+)', stdout_result)
-        for (index, rtt_stat) in enumerate(stats):
+        for (index, rtt_stat) in enumerate(["minimum", "average", "maximum", "jitter"]):
             statistics[rtt_stat] = float(rtt_match.group(index + 1))
 
     return statistics
