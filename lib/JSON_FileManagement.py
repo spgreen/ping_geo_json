@@ -16,10 +16,14 @@ def json_file_to_object(json_file_path):
 
 
 def save_file_as_json(file_path, data):
+    """
+    Saves object as a JSON file at a specified file path
+    """
     file = open(str(file_path), "w")
     json.dump(data, file)
     file.close()
     print("File saved at", file_path)
 
+    
 def dump_json_to_string(json_object):
     return json.dumps(json_object)
