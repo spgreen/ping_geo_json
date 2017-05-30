@@ -1,12 +1,12 @@
 import subprocess
 import re
 
-def check_ping2(hostname_or_ip="127.0.0.1", ping_count="4"):
+def check_ping2(hostname_or_ip="127.0.0.1", ping_count="4", warn_percent_loss=0):
     statistics = {"status": "DOWN", "loss": "N/A", "minimum": "N/A", "maximum": "N/A", "average": "N/A" }
     stats = ["minimum", "maximum", "average"]
 
     ping_count = str(ping_count)
-
+    
     result = subprocess.Popen(["ping", hostname_or_ip, "-c", ping_count],
                               stdout=subprocess.PIPE,
                               stderr=subprocess.PIPE)
@@ -15,9 +15,9 @@ def check_ping2(hostname_or_ip="127.0.0.1", ping_count="4"):
     stream_data = result.communicate()[0]
 
     if result.returncode == 0:
-        statistics["loss"] = int(re.search("([0-9]{1,3}?)% packet loss", stdout_result).group(1))
+        statistics["loss"] = float(re.search("(\d*)% packet loss", stdout_result).group(1))
 
-        if statistics["loss"] > 0 :
+        if statistics["loss"] > warn_percent_loss:
             statistics["status"] = "WARN"
         else:
             statistics["status"] = "OK"
