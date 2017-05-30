@@ -30,7 +30,7 @@ def main():
 
             results = check_modules.check_ping2(nren["properties"]["hostname/ip"], 
 						main_conf.ping_count, 
-						main_conf.ping_loss_warn_percent)
+						main_conf.ping_warn_percent_loss)
 		
             # Outputs ping test results for each test found within the SingAREN Peers GeoJSON file
             print(nren["properties"]['name'] + ": " + results["status"])
