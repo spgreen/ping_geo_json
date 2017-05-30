@@ -28,7 +28,10 @@ def main():
         for (index, nren) in enumerate(network_peers["nren"]):
             # Picks the ip information for each country and performs a ping test to said ip
 
-            results = check_modules.check_ping2(nren["properties"]["hostname/ip"], main_conf.ping_count)
+            results = check_modules.check_ping2(nren["properties"]["hostname/ip"], 
+						main_conf.ping_count, 
+						main_conf.ping_loss_warn_percent)
+		
             # Outputs ping test results for each test found within the SingAREN Peers GeoJSON file
             print(nren["properties"]['name'] + ": " + results["status"])
             del network_peers["nren"][index]["properties"]["hostname/ip"] # removes hostname/ip address for privacy reasons
