@@ -61,7 +61,7 @@
         var router_nodes = router_data;
     
         routers.selectAll( "path" )
-                .data( router_nodes.nren )
+                .data( router_nodes.ping_targets )
                 .enter()
                 .append( "path" )
                  .attr( "fill", function(d) {
@@ -76,7 +76,7 @@
                  .attr( "d", geoPath );          
                  
         routers.selectAll("text")
-                .data( router_nodes.nren)
+                .data( router_nodes.ping_targets)
                 .enter()
                     .append("svg:text")
                     .text(function(d){
