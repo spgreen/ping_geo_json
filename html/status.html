@@ -76,7 +76,7 @@
                  .attr( "d", geoPath );          
                  
         routers.selectAll("text")
-                .data( router_nodes.ping_targets)
+                .data( router_nodes.ping_targets )
                 .enter()
                     .append("svg:text")
                     .text(function(d){
