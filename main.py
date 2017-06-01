@@ -25,24 +25,24 @@ def main():
     print(network_peers["timestamp"])
 
     try:
-        for (index, nren) in enumerate(network_peers["nren"]):
+        for (index, ping_targets) in enumerate(network_peers["ping_targets"]):
             # Picks the ip information for each country and performs a ping test to said ip
 
-            results = check_modules.check_ping2(nren["properties"]["hostname/ip"], 
+            results = check_modules.check_ping2(ping_targets["properties"]["hostname/ip"], 
 						main_conf.ping_count, 
 						main_conf.ping_warn_percent_loss)
 		
             # Outputs ping test results for each test found within the SingAREN Peers GeoJSON file
-            print(nren["properties"]['name'] + ": " + results["status"])
-            del network_peers["nren"][index]["properties"]["hostname/ip"] # removes hostname/ip address for privacy reasons
+            print(ping_targets["properties"]['name'] + ": " + results["status"])
+            del network_peers["ping_targets"][index]["properties"]["hostname/ip"] # removes hostname/ip address for privacy reasons
 
             # Saves result statistics into Singpeers GeoJSON data
-            network_peers["nren"][index]["results"] = results
+            network_peers["ping_targets"][index]["results"] = results
 
             if results["status"] != "OK":
                 # Saves all failed tests within it's own list
-                #failed_tests.append(nren["properties"]['name'])
-                failed_tests[results["status"]].append(nren["properties"]['name'])
+                #failed_tests.append(ping_targets["properties"]['name'])
+                failed_tests[results["status"]].append(ping_targets["properties"]['name'])
 
     except TypeError:
         print("Error in JSON file format")
