@@ -1,0 +1,1735 @@
+{
+  "Aruba": {
+    "lon_lat": [
+      -69.96666666,
+      12.5
+    ],
+    "cc": "AW"
+  },
+  "Afghanistan": {
+    "lon_lat": [
+      65,
+      33
+    ],
+    "cc": "AF"
+  },
+  "Angola": {
+    "lon_lat": [
+      18.5,
+      -12.5
+    ],
+    "cc": "AO"
+  },
+  "Anguilla": {
+    "lon_lat": [
+      -63.16666666,
+      18.25
+    ],
+    "cc": "AI"
+  },
+  "\u00c5land Islands": {
+    "lon_lat": [
+      19.9,
+      60.116667
+    ],
+    "cc": "AX"
+  },
+  "Albania": {
+    "lon_lat": [
+      20,
+      41
+    ],
+    "cc": "AL"
+  },
+  "Andorra": {
+    "lon_lat": [
+      1.5,
+      42.5
+    ],
+    "cc": "AD"
+  },
+  "United Arab Emirates": {
+    "lon_lat": [
+      54,
+      24
+    ],
+    "cc": "AE"
+  },
+  "Argentina": {
+    "lon_lat": [
+      -64,
+      -34
+    ],
+    "cc": "AR"
+  },
+  "Armenia": {
+    "lon_lat": [
+      45,
+      40
+    ],
+    "cc": "AM"
+  },
+  "American Samoa": {
+    "lon_lat": [
+      -170,
+      -14.33333333
+    ],
+    "cc": "AS"
+  },
+  "Antarctica": {
+    "lon_lat": [
+      0,
+      -90
+    ],
+    "cc": "AQ"
+  },
+  "French Southern and Antarctic Lands": {
+    "lon_lat": [
+      69.167,
+      -49.25
+    ],
+    "cc": "TF"
+  },
+  "Antigua and Barbuda": {
+    "lon_lat": [
+      -61.8,
+      17.05
+    ],
+    "cc": "AG"
+  },
+  "Australia": {
+    "lon_lat": [
+      133,
+      -27
+    ],
+    "cc": "AU"
+  },
+  "Austria": {
+    "lon_lat": [
+      13.33333333,
+      47.33333333
+    ],
+    "cc": "AT"
+  },
+  "Azerbaijan": {
+    "lon_lat": [
+      47.5,
+      40.5
+    ],
+    "cc": "AZ"
+  },
+  "Burundi": {
+    "lon_lat": [
+      30,
+      -3.5
+    ],
+    "cc": "BI"
+  },
+  "Belgium": {
+    "lon_lat": [
+      4,
+      50.83333333
+    ],
+    "cc": "BE"
+  },
+  "Benin": {
+    "lon_lat": [
+      2.25,
+      9.5
+    ],
+    "cc": "BJ"
+  },
+  "Burkina Faso": {
+    "lon_lat": [
+      -2,
+      13
+    ],
+    "cc": "BF"
+  },
+  "Bangladesh": {
+    "lon_lat": [
+      90,
+      24
+    ],
+    "cc": "BD"
+  },
+  "Bulgaria": {
+    "lon_lat": [
+      25,
+      43
+    ],
+    "cc": "BG"
+  },
+  "Bahrain": {
+    "lon_lat": [
+      50.55,
+      26
+    ],
+    "cc": "BH"
+  },
+  "Bahamas": {
+    "lon_lat": [
+      -76,
+      24.25
+    ],
+    "cc": "BS"
+  },
+  "Bosnia and Herzegovina": {
+    "lon_lat": [
+      18,
+      44
+    ],
+    "cc": "BA"
+  },
+  "Saint Barth\u00e9lemy": {
+    "lon_lat": [
+      -63.41666666,
+      18.5
+    ],
+    "cc": "BL"
+  },
+  "Belarus": {
+    "lon_lat": [
+      28,
+      53
+    ],
+    "cc": "BY"
+  },
+  "Belize": {
+    "lon_lat": [
+      -88.75,
+      17.25
+    ],
+    "cc": "BZ"
+  },
+  "Bermuda": {
+    "lon_lat": [
+      -64.75,
+      32.33333333
+    ],
+    "cc": "BM"
+  },
+  "Bolivia": {
+    "lon_lat": [
+      -65,
+      -17
+    ],
+    "cc": "BO"
+  },
+  "Brazil": {
+    "lon_lat": [
+      -55,
+      -10
+    ],
+    "cc": "BR"
+  },
+  "Barbados": {
+    "lon_lat": [
+      -59.53333333,
+      13.16666666
+    ],
+    "cc": "BB"
+  },
+  "Brunei": {
+    "lon_lat": [
+      114.66666666,
+      4.5
+    ],
+    "cc": "BN"
+  },
+  "Bhutan": {
+    "lon_lat": [
+      90.5,
+      27.5
+    ],
+    "cc": "BT"
+  },
+  "Bouvet Island": {
+    "lon_lat": [
+      3.4,
+      -54.43333333
+    ],
+    "cc": "BV"
+  },
+  "Botswana": {
+    "lon_lat": [
+      24,
+      -22
+    ],
+    "cc": "BW"
+  },
+  "Central African Republic": {
+    "lon_lat": [
+      21,
+      7
+    ],
+    "cc": "CF"
+  },
+  "Canada": {
+    "lon_lat": [
+      -95,
+      60
+    ],
+    "cc": "CA"
+  },
+  "Cocos (Keeling) Islands": {
+    "lon_lat": [
+      96.83333333,
+      -12.5
+    ],
+    "cc": "CC"
+  },
+  "Switzerland": {
+    "lon_lat": [
+      8,
+      47
+    ],
+    "cc": "CH"
+  },
+  "Chile": {
+    "lon_lat": [
+      -71,
+      -30
+    ],
+    "cc": "CL"
+  },
+  "China": {
+    "lon_lat": [
+      105,
+      35
+    ],
+    "cc": "CN"
+  },
+  "Ivory Coast": {
+    "lon_lat": [
+      -5,
+      8
+    ],
+    "cc": "CI"
+  },
+  "Cameroon": {
+    "lon_lat": [
+      12,
+      6
+    ],
+    "cc": "CM"
+  },
+  "DR Congo": {
+    "lon_lat": [
+      25,
+      0
+    ],
+    "cc": "CD"
+  },
+  "Republic of the Congo": {
+    "lon_lat": [
+      15,
+      -1
+    ],
+    "cc": "CG"
+  },
+  "Cook Islands": {
+    "lon_lat": [
+      -159.76666666,
+      -21.23333333
+    ],
+    "cc": "CK"
+  },
+  "Colombia": {
+    "lon_lat": [
+      -72,
+      4
+    ],
+    "cc": "CO"
+  },
+  "Comoros": {
+    "lon_lat": [
+      44.25,
+      -12.16666666
+    ],
+    "cc": "KM"
+  },
+  "Cape Verde": {
+    "lon_lat": [
+      -24,
+      16
+    ],
+    "cc": "CV"
+  },
+  "Costa Rica": {
+    "lon_lat": [
+      -84,
+      10
+    ],
+    "cc": "CR"
+  },
+  "Cuba": {
+    "lon_lat": [
+      -80,
+      21.5
+    ],
+    "cc": "CU"
+  },
+  "Cura\u00e7ao": {
+    "lon_lat": [
+      -68.933333,
+      12.116667
+    ],
+    "cc": "CW"
+  },
+  "Christmas Island": {
+    "lon_lat": [
+      105.66666666,
+      -10.5
+    ],
+    "cc": "CX"
+  },
+  "Cayman Islands": {
+    "lon_lat": [
+      -80.5,
+      19.5
+    ],
+    "cc": "KY"
+  },
+  "Cyprus": {
+    "lon_lat": [
+      33,
+      35
+    ],
+    "cc": "CY"
+  },
+  "Czechia": {
+    "lon_lat": [
+      15.5,
+      49.75
+    ],
+    "cc": "CZ"
+  },
+  "Germany": {
+    "lon_lat": [
+      9,
+      51
+    ],
+    "cc": "DE"
+  },
+  "Djibouti": {
+    "lon_lat": [
+      43,
+      11.5
+    ],
+    "cc": "DJ"
+  },
+  "Dominica": {
+    "lon_lat": [
+      -61.33333333,
+      15.41666666
+    ],
+    "cc": "DM"
+  },
+  "Denmark": {
+    "lon_lat": [
+      10,
+      56
+    ],
+    "cc": "DK"
+  },
+  "Dominican Republic": {
+    "lon_lat": [
+      -70.66666666,
+      19
+    ],
+    "cc": "DO"
+  },
+  "Algeria": {
+    "lon_lat": [
+      3,
+      28
+    ],
+    "cc": "DZ"
+  },
+  "Ecuador": {
+    "lon_lat": [
+      -77.5,
+      -2
+    ],
+    "cc": "EC"
+  },
+  "Egypt": {
+    "lon_lat": [
+      30,
+      27
+    ],
+    "cc": "EG"
+  },
+  "Eritrea": {
+    "lon_lat": [
+      39,
+      15
+    ],
+    "cc": "ER"
+  },
+  "Western Sahara": {
+    "lon_lat": [
+      -13,
+      24.5
+    ],
+    "cc": "EH"
+  },
+  "Spain": {
+    "lon_lat": [
+      -4,
+      40
+    ],
+    "cc": "ES"
+  },
+  "Estonia": {
+    "lon_lat": [
+      26,
+      59
+    ],
+    "cc": "EE"
+  },
+  "Ethiopia": {
+    "lon_lat": [
+      38,
+      8
+    ],
+    "cc": "ET"
+  },
+  "Finland": {
+    "lon_lat": [
+      26,
+      64
+    ],
+    "cc": "FI"
+  },
+  "Fiji": {
+    "lon_lat": [
+      175,
+      -18
+    ],
+    "cc": "FJ"
+  },
+  "Falkland Islands": {
+    "lon_lat": [
+      -59,
+      -51.75
+    ],
+    "cc": "FK"
+  },
+  "France": {
+    "lon_lat": [
+      2,
+      46
+    ],
+    "cc": "FR"
+  },
+  "Faroe Islands": {
+    "lon_lat": [
+      -7,
+      62
+    ],
+    "cc": "FO"
+  },
+  "Micronesia": {
+    "lon_lat": [
+      158.25,
+      6.91666666
+    ],
+    "cc": "FM"
+  },
+  "Gabon": {
+    "lon_lat": [
+      11.75,
+      -1
+    ],
+    "cc": "GA"
+  },
+  "United Kingdom": {
+    "lon_lat": [
+      -2,
+      54
+    ],
+    "cc": "GB"
+  },
+  "Georgia": {
+    "lon_lat": [
+      43.5,
+      42
+    ],
+    "cc": "GE"
+  },
+  "Guernsey": {
+    "lon_lat": [
+      -2.58333333,
+      49.46666666
+    ],
+    "cc": "GG"
+  },
+  "Ghana": {
+    "lon_lat": [
+      -2,
+      8
+    ],
+    "cc": "GH"
+  },
+  "Gibraltar": {
+    "lon_lat": [
+      -5.35,
+      36.13333333
+    ],
+    "cc": "GI"
+  },
+  "Guinea": {
+    "lon_lat": [
+      -10,
+      11
+    ],
+    "cc": "GN"
+  },
+  "Guadeloupe": {
+    "lon_lat": [
+      -61.583333,
+      16.25
+    ],
+    "cc": "GP"
+  },
+  "Gambia": {
+    "lon_lat": [
+      -16.56666666,
+      13.46666666
+    ],
+    "cc": "GM"
+  },
+  "Guinea-Bissau": {
+    "lon_lat": [
+      -15,
+      12
+    ],
+    "cc": "GW"
+  },
+  "Equatorial Guinea": {
+    "lon_lat": [
+      10,
+      2
+    ],
+    "cc": "GQ"
+  },
+  "Greece": {
+    "lon_lat": [
+      22,
+      39
+    ],
+    "cc": "GR"
+  },
+  "Grenada": {
+    "lon_lat": [
+      -61.66666666,
+      12.11666666
+    ],
+    "cc": "GD"
+  },
+  "Greenland": {
+    "lon_lat": [
+      -40,
+      72
+    ],
+    "cc": "GL"
+  },
+  "Guatemala": {
+    "lon_lat": [
+      -90.25,
+      15.5
+    ],
+    "cc": "GT"
+  },
+  "French Guiana": {
+    "lon_lat": [
+      -53,
+      4
+    ],
+    "cc": "GF"
+  },
+  "Guam": {
+    "lon_lat": [
+      144.78333333,
+      13.46666666
+    ],
+    "cc": "GU"
+  },
+  "Guyana": {
+    "lon_lat": [
+      -59,
+      5
+    ],
+    "cc": "GY"
+  },
+  "Hong Kong": {
+    "lon_lat": [
+      114.188,
+      22.267
+    ],
+    "cc": "HK"
+  },
+  "Heard Island and McDonald Islands": {
+    "lon_lat": [
+      72.51666666,
+      -53.1
+    ],
+    "cc": "HM"
+  },
+  "Honduras": {
+    "lon_lat": [
+      -86.5,
+      15
+    ],
+    "cc": "HN"
+  },
+  "Croatia": {
+    "lon_lat": [
+      15.5,
+      45.16666666
+    ],
+    "cc": "HR"
+  },
+  "Haiti": {
+    "lon_lat": [
+      -72.41666666,
+      19
+    ],
+    "cc": "HT"
+  },
+  "Hungary": {
+    "lon_lat": [
+      20,
+      47
+    ],
+    "cc": "HU"
+  },
+  "Indonesia": {
+    "lon_lat": [
+      120,
+      -5
+    ],
+    "cc": "ID"
+  },
+  "Isle of Man": {
+    "lon_lat": [
+      -4.5,
+      54.25
+    ],
+    "cc": "IM"
+  },
+  "India": {
+    "lon_lat": [
+      77,
+      20
+    ],
+    "cc": "IN"
+  },
+  "British Indian Ocean Territory": {
+    "lon_lat": [
+      71.5,
+      -6
+    ],
+    "cc": "IO"
+  },
+  "Ireland": {
+    "lon_lat": [
+      -8,
+      53
+    ],
+    "cc": "IE"
+  },
+  "Iran": {
+    "lon_lat": [
+      53,
+      32
+    ],
+    "cc": "IR"
+  },
+  "Iraq": {
+    "lon_lat": [
+      44,
+      33
+    ],
+    "cc": "IQ"
+  },
+  "Iceland": {
+    "lon_lat": [
+      -18,
+      65
+    ],
+    "cc": "IS"
+  },
+  "Israel": {
+    "lon_lat": [
+      35.13,
+      31.47
+    ],
+    "cc": "IL"
+  },
+  "Italy": {
+    "lon_lat": [
+      12.83333333,
+      42.83333333
+    ],
+    "cc": "IT"
+  },
+  "Jamaica": {
+    "lon_lat": [
+      -77.5,
+      18.25
+    ],
+    "cc": "JM"
+  },
+  "Jersey": {
+    "lon_lat": [
+      -2.16666666,
+      49.25
+    ],
+    "cc": "JE"
+  },
+  "Jordan": {
+    "lon_lat": [
+      36,
+      31
+    ],
+    "cc": "JO"
+  },
+  "Japan": {
+    "lon_lat": [
+      138,
+      36
+    ],
+    "cc": "JP"
+  },
+  "Kazakhstan": {
+    "lon_lat": [
+      68,
+      48
+    ],
+    "cc": "KZ"
+  },
+  "Kenya": {
+    "lon_lat": [
+      38,
+      1
+    ],
+    "cc": "KE"
+  },
+  "Kyrgyzstan": {
+    "lon_lat": [
+      75,
+      41
+    ],
+    "cc": "KG"
+  },
+  "Cambodia": {
+    "lon_lat": [
+      105,
+      13
+    ],
+    "cc": "KH"
+  },
+  "Kiribati": {
+    "lon_lat": [
+      173,
+      1.41666666
+    ],
+    "cc": "KI"
+  },
+  "Saint Kitts and Nevis": {
+    "lon_lat": [
+      -62.75,
+      17.33333333
+    ],
+    "cc": "KN"
+  },
+  "South Korea": {
+    "lon_lat": [
+      127.5,
+      37
+    ],
+    "cc": "KR"
+  },
+  "Kosovo": {
+    "lon_lat": [
+      21.166667,
+      42.666667
+    ],
+    "cc": "XK"
+  },
+  "Kuwait": {
+    "lon_lat": [
+      45.75,
+      29.5
+    ],
+    "cc": "KW"
+  },
+  "Laos": {
+    "lon_lat": [
+      105,
+      18
+    ],
+    "cc": "LA"
+  },
+  "Lebanon": {
+    "lon_lat": [
+      35.83333333,
+      33.83333333
+    ],
+    "cc": "LB"
+  },
+  "Liberia": {
+    "lon_lat": [
+      -9.5,
+      6.5
+    ],
+    "cc": "LR"
+  },
+  "Libya": {
+    "lon_lat": [
+      17,
+      25
+    ],
+    "cc": "LY"
+  },
+  "Saint Lucia": {
+    "lon_lat": [
+      -60.96666666,
+      13.88333333
+    ],
+    "cc": "LC"
+  },
+  "Liechtenstein": {
+    "lon_lat": [
+      9.53333333,
+      47.26666666
+    ],
+    "cc": "LI"
+  },
+  "Sri Lanka": {
+    "lon_lat": [
+      81,
+      7
+    ],
+    "cc": "LK"
+  },
+  "Lesotho": {
+    "lon_lat": [
+      28.5,
+      -29.5
+    ],
+    "cc": "LS"
+  },
+  "Lithuania": {
+    "lon_lat": [
+      24,
+      56
+    ],
+    "cc": "LT"
+  },
+  "Luxembourg": {
+    "lon_lat": [
+      6.16666666,
+      49.75
+    ],
+    "cc": "LU"
+  },
+  "Latvia": {
+    "lon_lat": [
+      25,
+      57
+    ],
+    "cc": "LV"
+  },
+  "Macau": {
+    "lon_lat": [
+      113.55,
+      22.16666666
+    ],
+    "cc": "MO"
+  },
+  "Saint Martin": {
+    "lon_lat": [
+      -63.95,
+      18.08333333
+    ],
+    "cc": "MF"
+  },
+  "Morocco": {
+    "lon_lat": [
+      -5,
+      32
+    ],
+    "cc": "MA"
+  },
+  "Monaco": {
+    "lon_lat": [
+      7.4,
+      43.73333333
+    ],
+    "cc": "MC"
+  },
+  "Moldova": {
+    "lon_lat": [
+      29,
+      47
+    ],
+    "cc": "MD"
+  },
+  "Madagascar": {
+    "lon_lat": [
+      47,
+      -20
+    ],
+    "cc": "MG"
+  },
+  "Maldives": {
+    "lon_lat": [
+      73,
+      3.25
+    ],
+    "cc": "MV"
+  },
+  "Mexico": {
+    "lon_lat": [
+      -102,
+      23
+    ],
+    "cc": "MX"
+  },
+  "Marshall Islands": {
+    "lon_lat": [
+      168,
+      9
+    ],
+    "cc": "MH"
+  },
+  "Macedonia": {
+    "lon_lat": [
+      22,
+      41.83333333
+    ],
+    "cc": "MK"
+  },
+  "Mali": {
+    "lon_lat": [
+      -4,
+      17
+    ],
+    "cc": "ML"
+  },
+  "Malta": {
+    "lon_lat": [
+      14.58333333,
+      35.83333333
+    ],
+    "cc": "MT"
+  },
+  "Myanmar": {
+    "lon_lat": [
+      98,
+      22
+    ],
+    "cc": "MM"
+  },
+  "Montenegro": {
+    "lon_lat": [
+      19.3,
+      42.5
+    ],
+    "cc": "ME"
+  },
+  "Mongolia": {
+    "lon_lat": [
+      105,
+      46
+    ],
+    "cc": "MN"
+  },
+  "Northern Mariana Islands": {
+    "lon_lat": [
+      145.75,
+      15.2
+    ],
+    "cc": "MP"
+  },
+  "Mozambique": {
+    "lon_lat": [
+      35,
+      -18.25
+    ],
+    "cc": "MZ"
+  },
+  "Mauritania": {
+    "lon_lat": [
+      -12,
+      20
+    ],
+    "cc": "MR"
+  },
+  "Montserrat": {
+    "lon_lat": [
+      -62.2,
+      16.75
+    ],
+    "cc": "MS"
+  },
+  "Martinique": {
+    "lon_lat": [
+      -61,
+      14.666667
+    ],
+    "cc": "MQ"
+  },
+  "Mauritius": {
+    "lon_lat": [
+      57.55,
+      -20.28333333
+    ],
+    "cc": "MU"
+  },
+  "Malawi": {
+    "lon_lat": [
+      34,
+      -13.5
+    ],
+    "cc": "MW"
+  },
+  "Malaysia": {
+    "lon_lat": [
+      112.5,
+      2.5
+    ],
+    "cc": "MY"
+  },
+  "Mayotte": {
+    "lon_lat": [
+      45.16666666,
+      -12.83333333
+    ],
+    "cc": "YT"
+  },
+  "Namibia": {
+    "lon_lat": [
+      17,
+      -22
+    ],
+    "cc": "NA"
+  },
+  "New Caledonia": {
+    "lon_lat": [
+      165.5,
+      -21.5
+    ],
+    "cc": "NC"
+  },
+  "Niger": {
+    "lon_lat": [
+      8,
+      16
+    ],
+    "cc": "NE"
+  },
+  "Norfolk Island": {
+    "lon_lat": [
+      167.95,
+      -29.03333333
+    ],
+    "cc": "NF"
+  },
+  "Nigeria": {
+    "lon_lat": [
+      8,
+      10
+    ],
+    "cc": "NG"
+  },
+  "Nicaragua": {
+    "lon_lat": [
+      -85,
+      13
+    ],
+    "cc": "NI"
+  },
+  "Niue": {
+    "lon_lat": [
+      -169.86666666,
+      -19.03333333
+    ],
+    "cc": "NU"
+  },
+  "Netherlands": {
+    "lon_lat": [
+      5.75,
+      52.5
+    ],
+    "cc": "NL"
+  },
+  "Norway": {
+    "lon_lat": [
+      10,
+      62
+    ],
+    "cc": "NO"
+  },
+  "Nepal": {
+    "lon_lat": [
+      84,
+      28
+    ],
+    "cc": "NP"
+  },
+  "Nauru": {
+    "lon_lat": [
+      166.91666666,
+      -0.53333333
+    ],
+    "cc": "NR"
+  },
+  "New Zealand": {
+    "lon_lat": [
+      174,
+      -41
+    ],
+    "cc": "NZ"
+  },
+  "Oman": {
+    "lon_lat": [
+      57,
+      21
+    ],
+    "cc": "OM"
+  },
+  "Pakistan": {
+    "lon_lat": [
+      70,
+      30
+    ],
+    "cc": "PK"
+  },
+  "Panama": {
+    "lon_lat": [
+      -80,
+      9
+    ],
+    "cc": "PA"
+  },
+  "Pitcairn Islands": {
+    "lon_lat": [
+      -130.1,
+      -25.06666666
+    ],
+    "cc": "PN"
+  },
+  "Peru": {
+    "lon_lat": [
+      -76,
+      -10
+    ],
+    "cc": "PE"
+  },
+  "Philippines": {
+    "lon_lat": [
+      122,
+      13
+    ],
+    "cc": "PH"
+  },
+  "Palau": {
+    "lon_lat": [
+      134.5,
+      7.5
+    ],
+    "cc": "PW"
+  },
+  "Papua New Guinea": {
+    "lon_lat": [
+      147,
+      -6
+    ],
+    "cc": "PG"
+  },
+  "Poland": {
+    "lon_lat": [
+      20,
+      52
+    ],
+    "cc": "PL"
+  },
+  "Puerto Rico": {
+    "lon_lat": [
+      -66.5,
+      18.25
+    ],
+    "cc": "PR"
+  },
+  "North Korea": {
+    "lon_lat": [
+      127,
+      40
+    ],
+    "cc": "KP"
+  },
+  "Portugal": {
+    "lon_lat": [
+      -8,
+      39.5
+    ],
+    "cc": "PT"
+  },
+  "Paraguay": {
+    "lon_lat": [
+      -58,
+      -23
+    ],
+    "cc": "PY"
+  },
+  "Palestine": {
+    "lon_lat": [
+      35.2,
+      31.9
+    ],
+    "cc": "PS"
+  },
+  "French Polynesia": {
+    "lon_lat": [
+      -140,
+      -15
+    ],
+    "cc": "PF"
+  },
+  "Qatar": {
+    "lon_lat": [
+      51.25,
+      25.5
+    ],
+    "cc": "QA"
+  },
+  "R\u00e9union": {
+    "lon_lat": [
+      55.5,
+      -21.15
+    ],
+    "cc": "RE"
+  },
+  "Romania": {
+    "lon_lat": [
+      25,
+      46
+    ],
+    "cc": "RO"
+  },
+  "Russia": {
+    "lon_lat": [
+      100,
+      60
+    ],
+    "cc": "RU"
+  },
+  "Rwanda": {
+    "lon_lat": [
+      30,
+      -2
+    ],
+    "cc": "RW"
+  },
+  "Saudi Arabia": {
+    "lon_lat": [
+      45,
+      25
+    ],
+    "cc": "SA"
+  },
+  "Sudan": {
+    "lon_lat": [
+      30,
+      15
+    ],
+    "cc": "SD"
+  },
+  "Senegal": {
+    "lon_lat": [
+      -14,
+      14
+    ],
+    "cc": "SN"
+  },
+  "Singapore": {
+    "lon_lat": [
+      103.8,
+      1.36666666
+    ],
+    "cc": "SG"
+  },
+  "South Georgia": {
+    "lon_lat": [
+      -37,
+      -54.5
+    ],
+    "cc": "GS"
+  },
+  "Svalbard and Jan Mayen": {
+    "lon_lat": [
+      20,
+      78
+    ],
+    "cc": "SJ"
+  },
+  "Solomon Islands": {
+    "lon_lat": [
+      159,
+      -8
+    ],
+    "cc": "SB"
+  },
+  "Sierra Leone": {
+    "lon_lat": [
+      -11.5,
+      8.5
+    ],
+    "cc": "SL"
+  },
+  "El Salvador": {
+    "lon_lat": [
+      -88.91666666,
+      13.83333333
+    ],
+    "cc": "SV"
+  },
+  "San Marino": {
+    "lon_lat": [
+      12.41666666,
+      43.76666666
+    ],
+    "cc": "SM"
+  },
+  "Somalia": {
+    "lon_lat": [
+      49,
+      10
+    ],
+    "cc": "SO"
+  },
+  "Saint Pierre and Miquelon": {
+    "lon_lat": [
+      -56.33333333,
+      46.83333333
+    ],
+    "cc": "PM"
+  },
+  "Serbia": {
+    "lon_lat": [
+      21,
+      44
+    ],
+    "cc": "RS"
+  },
+  "South Sudan": {
+    "lon_lat": [
+      30,
+      7
+    ],
+    "cc": "SS"
+  },
+  "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+    "lon_lat": [
+      7,
+      1
+    ],
+    "cc": "ST"
+  },
+  "Suriname": {
+    "lon_lat": [
+      -56,
+      4
+    ],
+    "cc": "SR"
+  },
+  "Slovakia": {
+    "lon_lat": [
+      19.5,
+      48.66666666
+    ],
+    "cc": "SK"
+  },
+  "Slovenia": {
+    "lon_lat": [
+      14.81666666,
+      46.11666666
+    ],
+    "cc": "SI"
+  },
+  "Sweden": {
+    "lon_lat": [
+      15,
+      62
+    ],
+    "cc": "SE"
+  },
+  "Swaziland": {
+    "lon_lat": [
+      31.5,
+      -26.5
+    ],
+    "cc": "SZ"
+  },
+  "Sint Maarten": {
+    "lon_lat": [
+      -63.05,
+      18.033333
+    ],
+    "cc": "SX"
+  },
+  "Seychelles": {
+    "lon_lat": [
+      55.66666666,
+      -4.58333333
+    ],
+    "cc": "SC"
+  },
+  "Syria": {
+    "lon_lat": [
+      38,
+      35
+    ],
+    "cc": "SY"
+  },
+  "Turks and Caicos Islands": {
+    "lon_lat": [
+      -71.58333333,
+      21.75
+    ],
+    "cc": "TC"
+  },
+  "Chad": {
+    "lon_lat": [
+      19,
+      15
+    ],
+    "cc": "TD"
+  },
+  "Togo": {
+    "lon_lat": [
+      1.16666666,
+      8
+    ],
+    "cc": "TG"
+  },
+  "Thailand": {
+    "lon_lat": [
+      100,
+      15
+    ],
+    "cc": "TH"
+  },
+  "Tajikistan": {
+    "lon_lat": [
+      71,
+      39
+    ],
+    "cc": "TJ"
+  },
+  "Tokelau": {
+    "lon_lat": [
+      -172,
+      -9
+    ],
+    "cc": "TK"
+  },
+  "Turkmenistan": {
+    "lon_lat": [
+      60,
+      40
+    ],
+    "cc": "TM"
+  },
+  "Timor-Leste": {
+    "lon_lat": [
+      125.91666666,
+      -8.83333333
+    ],
+    "cc": "TL"
+  },
+  "Tonga": {
+    "lon_lat": [
+      -175,
+      -20
+    ],
+    "cc": "TO"
+  },
+  "Trinidad and Tobago": {
+    "lon_lat": [
+      -61,
+      11
+    ],
+    "cc": "TT"
+  },
+  "Tunisia": {
+    "lon_lat": [
+      9,
+      34
+    ],
+    "cc": "TN"
+  },
+  "Turkey": {
+    "lon_lat": [
+      35,
+      39
+    ],
+    "cc": "TR"
+  },
+  "Tuvalu": {
+    "lon_lat": [
+      178,
+      -8
+    ],
+    "cc": "TV"
+  },
+  "Taiwan": {
+    "lon_lat": [
+      121,
+      23.5
+    ],
+    "cc": "TW"
+  },
+  "Tanzania": {
+    "lon_lat": [
+      35,
+      -6
+    ],
+    "cc": "TZ"
+  },
+  "Uganda": {
+    "lon_lat": [
+      32,
+      1
+    ],
+    "cc": "UG"
+  },
+  "Ukraine": {
+    "lon_lat": [
+      32,
+      49
+    ],
+    "cc": "UA"
+  },
+  "United States Minor Outlying Islands": {
+    "lon_lat": [ ],
+    "cc": "UM"
+  },
+  "Uruguay": {
+    "lon_lat": [
+      -56,
+      -33
+    ],
+    "cc": "UY"
+  },
+  "United States": {
+    "lon_lat": [
+      -97,
+      38
+    ],
+    "cc": "US"
+  },
+  "Uzbekistan": {
+    "lon_lat": [
+      64,
+      41
+    ],
+    "cc": "UZ"
+  },
+  "Vatican City": {
+    "lon_lat": [
+      12.45,
+      41.9
+    ],
+    "cc": "VA"
+  },
+  "Saint Vincent and the Grenadines": {
+    "lon_lat": [
+      -61.2,
+      13.25
+    ],
+    "cc": "VC"
+  },
+  "Venezuela": {
+    "lon_lat": [
+      -66,
+      8
+    ],
+    "cc": "VE"
+  },
+  "British Virgin Islands": {
+    "lon_lat": [
+      -64.62305,
+      18.431383
+    ],
+    "cc": "VG"
+  },
+  "United States Virgin Islands": {
+    "lon_lat": [
+      -64.933333,
+      18.35
+    ],
+    "cc": "VI"
+  },
+  "Vietnam": {
+    "lon_lat": [
+      107.83333333,
+      16.16666666
+    ],
+    "cc": "VN"
+  },
+  "Vanuatu": {
+    "lon_lat": [
+      167,
+      -16
+    ],
+    "cc": "VU"
+  },
+  "Wallis and Futuna": {
+    "lon_lat": [
+      -176.2,
+      -13.3
+    ],
+    "cc": "WF"
+  },
+  "Samoa": {
+    "lon_lat": [
+      -172.33333333,
+      -13.58333333
+    ],
+    "cc": "WS"
+  },
+  "Yemen": {
+    "lon_lat": [
+      48,
+      15
+    ],
+    "cc": "YE"
+  },
+  "South Africa": {
+    "lon_lat": [
+      24,
+      -29
+    ],
+    "cc": "ZA"
+  },
+  "Zambia": {
+    "lon_lat": [
+      30,
+      -15
+    ],
+    "cc": "ZM"
+  },
+  "Zimbabwe": {
+    "lon_lat": [
+      30,
+      -20
+    ],
+    "cc": "ZW"
+  }
+}
